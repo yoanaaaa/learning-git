@@ -14,4 +14,7 @@ public class Cat extends Animals {
     public int numberOfLegs() {
         return 0;
     }
+
+    public Cat() {
+    }
 }
