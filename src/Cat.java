@@ -18,4 +18,9 @@ public class Cat extends Animals{
     public String isFast() {
         return "yes";
     }
+
+    @Override
+    public String color() {
+        return null;
+    }
 }
