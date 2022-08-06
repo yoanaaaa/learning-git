@@ -11,11 +11,11 @@ public class Cat extends Animals{
 
     @Override
     public int numberOfLegs() {
-        return 0;
+        return 4;
     }
 
     @Override
     public String isFast() {
-        return null;
+        return "yes";
     }
 }
