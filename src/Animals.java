@@ -1,4 +1,7 @@
-public abstract class Animals implements AnimalsI {
+public abstract class Animals {
+
+
+    //implements AnimalsI {
 
     private String name;
     private String eats;
