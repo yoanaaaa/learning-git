@@ -1,4 +1,4 @@
-public abstract class Animals {
+public abstract class Animals implements AnimalsI {
 
     private String name;
     private String eats;
@@ -37,6 +37,12 @@ public abstract class Animals {
     }
 
     public void setNoOfLegs(int noOfLegs) {
+        this.noOfLegs = noOfLegs;
+    }
+
+    Animals(String eats, boolean vegetarian, int noOfLegs) {
+        this.eats = eats;
+        this.vegetarian = vegetarian;
         this.noOfLegs = noOfLegs;
     }
 
