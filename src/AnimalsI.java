@@ -8,5 +8,4 @@ interface  AnimalsI {
 
  String   isFast();
 
- String  color();
 }
