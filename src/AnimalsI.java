@@ -7,4 +7,7 @@ interface  AnimalsI {
     int numberOfLegs();
 
  String   isFast();
+
+
+
 }
