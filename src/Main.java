@@ -6,7 +6,7 @@ public class Main {
         tom.setNoOfLegs(4);
         tom.setVegetarian(false);
         
-         Cat tom = new Cat();
+         Cat lom = new Cat();
         tom.setName("Jerry");
         tom.setEats("catfood");
         tom.setNoOfLegs(4);
