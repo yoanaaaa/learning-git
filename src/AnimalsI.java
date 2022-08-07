@@ -6,6 +6,8 @@ interface  AnimalsI {
 
     int numberOfLegs();
  String   isFast();
+
  String  color();
 
 }
+
