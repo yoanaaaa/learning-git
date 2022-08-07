@@ -5,8 +5,7 @@ interface  AnimalsI {
     boolean isVegetarian();
 
     int numberOfLegs();
-
  String   isFast();
-
  String  color();
+
 }
