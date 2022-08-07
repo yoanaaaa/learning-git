@@ -11,7 +11,3 @@ interface  AnimalsI {
 
 }
 
-
-
-
-
