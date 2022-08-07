@@ -5,7 +5,5 @@ public class Main {
         tom.setEats("fish");
         tom.setNoOfLegs(4);
         tom.setVegetarian(false);
-
-
     }
 }
