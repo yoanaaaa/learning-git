@@ -55,4 +55,6 @@ public abstract class Animals implements AnimalsI {
                 ", noOfLegs=" + noOfLegs +
                 '}';
     }
+
+    public abstract String color();
 }
