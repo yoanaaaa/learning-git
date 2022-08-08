@@ -35,10 +35,6 @@ public class Frog implements AnimalsI {
         return "yes";
     }
 
-    public  String stash(){return "hi";}
 
-    public  String stash1(){return "hi";}
-
-    public  String stash2(){return "hi";}
 
 }
